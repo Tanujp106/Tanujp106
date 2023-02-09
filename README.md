@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center"Currently learning Flutter</h3>
 
-
 - 📫 How to reach me **Tanujpatel106@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
