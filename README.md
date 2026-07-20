@@ -1,5 +1,3 @@
-# Tanuj Patel
-
 **Product Designer & No-code Developer**
 
 I design consumer products that simplify complexity —
